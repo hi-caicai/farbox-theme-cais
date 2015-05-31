@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1298px" height="1825px" viewBox="0 0 1298 1825" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.3 (11920) - http://www.bohemiancoding.com/sketch -->
+    <title>Oops！ + 火星上也没有！ + Oval 2 + Oval 2 Copy + Oval 2 Copy 2 + Oval 2 Copy 3 + Oval 2 Copy 4 + Oval 2 Copy 5 + Oval 2 Copy 6 Mask Copy</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs>
+        <circle id="path-1" cx="649" cy="649" r="649"></circle>
+        <circle id="path-3" cx="54" cy="54" r="54"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Oops！-+-火星上也没有！-+-Oval-2-+-Oval-2-Copy-+-Oval-2-Copy-2-+-Oval-2-Copy-3-+-Oval-2-Copy-4-+-Oval-2-Copy-5-+-Oval-2-Copy-6-Mask-Copy" sketch:type="MSLayerGroup" transform="translate(0.000000, -45.000000)">
+            <text id="Oops！" sketch:type="MSTextLayer" font-family="Arial Black" font-size="144" font-weight="686" fill="#707070">
+                <tspan x="426" y="158">Oops</tspan>
+                <tspan x="826.007812" y="158" font-family="Heiti SC" font-weight="bold">！</tspan>
+            </text>
+            <text id="火星上也没有！" sketch:type="MSTextLayer" font-family="Heiti SC" font-size="64" font-weight="bold" fill="#8E8E8E">
+                <tspan x="433" y="284">火星上也没有！</tspan>
+            </text>
+            <g id="Oval-2-+-Oval-2-Copy-+-Oval-2-Copy-2-+-Oval-2-Copy-3-+-Oval-2-Copy-4-+-Oval-2-Copy-5-+-Oval-2-Copy-6-Mask" transform="translate(0.000000, 572.000000)">
+                <mask id="mask-2" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="#FF743F" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                    <use fill="none" xlink:href="#path-1"></use>
+                </g>
+                <path d="M593,376 C640.496488,376 679,337.496488 679,290 C679,242.503512 640.496488,204 593,204 C545.503512,204 507,242.503512 507,290 C507,337.496488 545.503512,376 593,376 Z" id="Oval-2" fill="#D05121" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M162.625,889.25 C201.63011,889.25 233.25,857.63011 233.25,818.625 C233.25,779.61989 201.63011,748 162.625,748 C123.61989,748 92,779.61989 92,818.625 C92,857.63011 123.61989,889.25 162.625,889.25 Z" id="Oval-2-Copy" fill="#D05121" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M909.664062,783.328125 C935.988197,783.328125 957.328125,761.988197 957.328125,735.664062 C957.328125,709.339928 935.988197,688 909.664062,688 C883.339928,688 862,709.339928 862,735.664062 C862,761.988197 883.339928,783.328125 909.664062,783.328125 Z" id="Oval-2-Copy-18" fill="#D05121" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M666.686442,334.367955 C651.63179,359.317148 624.264139,376 593,376 C545.503512,376 507,337.496488 507,290 C507,251.915082 531.756166,219.612277 566.054209,208.305872 C547.555101,223.083699 535.703512,245.833684 535.703512,271.351756 C535.703512,315.892551 571.810961,352 616.351756,352 C635.39156,352 652.890341,345.402099 666.686442,334.367955 Z" id="Oval-2-Copy-8" fill="#E15D2B" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M223.137849,855.060893 C210.774653,875.549693 188.299765,889.25 162.625,889.25 C123.61989,889.25 92,857.63011 92,818.625 C92,787.348868 112.330281,760.821128 140.496552,751.536072 C125.304698,763.671933 115.571925,782.354697 115.571925,803.310672 C115.571925,839.888505 145.224117,869.540698 181.801951,869.540698 C197.437836,869.540698 211.808202,864.122363 223.137849,855.060893 Z" id="Oval-2-Copy-17" fill="#E15D2B" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M950.503541,760.25426 C942.159752,774.081933 926.991689,783.328125 909.664062,783.328125 C883.339928,783.328125 862,761.988197 862,735.664062 C862,714.556133 875.720691,696.652843 894.729808,690.386457 C884.476987,698.576821 877.908442,711.18562 877.908442,725.328585 C877.908442,750.014576 897.920392,770.026526 922.606383,770.026526 C933.158876,770.026526 942.857283,766.36975 950.503541,760.25426 Z" id="Oval-2-Copy-19" fill="#E15D2B" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <circle id="Oval-2-Copy-7" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="9" cy="482" r="86"></circle>
+                <g id="Oval-53" mask="url(#mask-2)">
+                    <g transform="translate(277.000000, 114.000000)">
+                        <mask id="mask-4" sketch:name="Mask" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="none" fill="#E25D2A" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                        <circle id="Oval-53" stroke="none" fill="#D05121" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-4)" cx="68.5" cy="29.5" r="44.5"></circle>
+                    </g>
+                </g>
+                <path d="M1079.5,287 C1130.58634,287 1172,245.586339 1172,194.5 C1172,143.413661 1130.58634,102 1079.5,102 C1028.41366,102 987,143.413661 987,194.5 C987,245.586339 1028.41366,287 1079.5,287 Z" id="Oval-2-Copy-2" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <circle id="Oval-51" fill="#D05121" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="1078" cy="169" r="66"></circle>
+                <circle id="Oval-2-Copy-3" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="431.5" cy="626.5" r="34.5"></circle>
+                <circle id="Oval-2-Copy-9" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="247.5" cy="622.5" r="34.5"></circle>
+                <circle id="Oval-2-Copy-10" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="889.5" cy="940.5" r="34.5"></circle>
+                <circle id="Oval-2-Copy-11" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="1089.5" cy="694.5" r="34.5"></circle>
+                <circle id="Oval-2-Copy-12" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="351.5" cy="896.5" r="34.5"></circle>
+                <circle id="Oval-2-Copy-13" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="568" cy="1055" r="62"></circle>
+                <circle id="Oval-2-Copy-14" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="664" cy="833" r="62"></circle>
+                <circle id="Oval-2-Copy-15" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="874" cy="1211" r="62"></circle>
+                <circle id="Oval-2-Copy-16" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="1180" cy="973" r="62"></circle>
+                <path d="M741,160 C770.823376,160 795,135.823376 795,106 C795,76.1766235 770.823376,52 741,52 C711.176624,52 687,76.1766235 687,106 C687,135.823376 711.176624,160 741,160 Z" id="Oval-2-Copy-4" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <circle id="Oval-2-Copy-5" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="983" cy="412" r="54"></circle>
+                <circle id="Oval-2-Copy-6" fill="#E25D2A" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="371" cy="428" r="54"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

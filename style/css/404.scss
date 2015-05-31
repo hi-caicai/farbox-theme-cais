@@ -1,0 +1,43 @@
+
+.page_404 {
+	width: 100%;
+	height: 200000px;
+	background-image: url(/template/style/images/star.svg);
+
+	.page_404_part1 {
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+		padding-top: 100px;
+
+		img {
+			width: 3%;
+
+		}
+	}
+
+	.page_404_part2 {
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+		padding-top: 100px;
+		img {
+
+			width: 20%;
+
+		}
+	}
+
+	.page_404_part3 {
+		margin: 0 auto;
+		width: 100%;
+		text-align: center;
+		bottom: 0;
+		padding-top: 198696px;
+
+		img {
+			width: 30%;
+		}
+	}
+
+}

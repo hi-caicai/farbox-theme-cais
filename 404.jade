@@ -1,0 +1,21 @@
+html
+	head
+		title Not Found
+		+load('/template/style/css/404.scss')
+	.page_404
+		.page_404_part1
+			img.animated.fadeInDown(src="/template/style/images/star2.svg")
+		.page_404_part2
+			img.animated.fadeInDown(src="/template/style/images/404.svg")
+		.page_404_part3
+			img.animated.fadeInDown(src="/template/style/images/mar.svg")
+		+load('jquery')
+		+load('/template/style/js/autoscroll.js')
+		script
+  			$(function(){
+				window.autoscroll.interval = 10;
+				window.autoscroll.threshold = 50;
+				window.autoscroll.velocity = 5;
+				window.autoscroll.acceleration = 1;
+				window.autoscroll.start();
+				});

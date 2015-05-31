@@ -1,0 +1,7 @@
+from mixins import make_post
+
+extends base.jade
+block content
+	.autopagerize_page_element:.content:.post-page
+		+make_post(post, is_detail=True)
+    	include include/comments
