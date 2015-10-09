@@ -24,4 +24,4 @@ This theme is desiged for FarBox,You can use it directly or modified it on FarBo
 
 ### License
 
-Anatole is released under the MIT license.
+cais is released under the MIT license.
