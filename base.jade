@@ -6,7 +6,6 @@ html
 	+i18n('Tags', '标签', 'zh_cn')
 	+i18n('About', '关于', 'zh_cn')
 	+i18n('Links', '友链', 'zh_cn')
-
 	head
 		meta(http-equiv="Content-Type", content="text/html; charset=UTF-8")
 		block title
@@ -15,6 +14,7 @@ html
 		meta(name="author", content="CaiCai,hi@cai-cai.me")
 		meta(name="keywords", content=site.configs.keywords.escaped)
 		meta(name="description", content=site.raw_content.escaped)
+		link(rel="stylesheet", type="text/css", href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&subset=latin,latin-ext")
 		+load('font')
 		+get_resource("blog_basic.css")
 		+load('/template/style/css/style.scss')

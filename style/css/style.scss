@@ -8,15 +8,11 @@ body {
 	color: rgba(0, 0, 0, 0.6);
 	font-family: 'Open Sans', sans-serif;
 	font-size: 15px;
-
 	width: 100%;
 	margin: 0 auto 30px auto;
 	background-color: #fff;
 
 }
-
-
-
 p {
 	line-height: 1.9em;
 	font-weight: 400;
@@ -136,7 +132,10 @@ a:hover, a:active {
 	margin: 0 auto;
 }
 
-
+.list_with_title .container{
+	width: 720px;
+	margin: 0 auto;
+}
 .header {
 	width: 720px;
 	padding: 100px 0;
@@ -147,6 +146,7 @@ a:hover, a:active {
 	.logo-title{
 		text-align: center;
 		padding: 0 20px;
+
 
 		.description {
 			padding: 20px 5px 0px 5px;
@@ -162,9 +162,11 @@ a:hover, a:active {
 		.title{
 			h1 {
 				text-transform: uppercase;
-				font-size: 24px;
+				font-size: 4rem;
+				font-weight: bold;
 				letter-spacing: 5px;
 				line-height: 1;
+				margin:0;
 			}
 
 			a {
@@ -449,10 +451,6 @@ a:hover, a:active {
 }
 
 
-
-
-
-
 /* 评论样式 */
 
 .comment-count {
@@ -596,11 +594,8 @@ a.btn {
 }
 
 
-
-
 @media screen and (max-width: 900px) {
 	.header {
-		display: none;
 	}
 
 	.content{
